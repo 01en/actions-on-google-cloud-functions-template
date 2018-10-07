@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "gcp-project-id",
+    "dev": "gcp-project-id"
+  }
+}
